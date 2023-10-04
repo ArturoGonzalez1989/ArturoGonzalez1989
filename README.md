@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arturo González Martínez</h1>
-<h3 align="center">IT Professional and Educator with Expertise in Computer Engineering, Business Intelligence, Big Data, and Data Science</h3>
+<h3 align="center">IT Professional and Educator with Expertise in Data Engineering, Business Intelligence and Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arturogonzalez1989&label=Profile%20views&color=0e75b6&style=flat" alt="arturogonzalez1989" /> </p>
 
