@@ -14,7 +14,7 @@ I consider myself a proactive person with strong analytical and research skills,
 Currently, I balance my main professional role as a Data Engineer with a position as a collaborating professor at the UOC, where I can contribute my professional experience in the fields of BI and Data Engineering to help train the next generation of data professionals
 </p>
 
-- 🔭 I’m currently working on **Hiberus Tecnología**
+- 🔭 I’m currently working on **Deko Data**
 
 - 🏫 I’m currently collaborating on **Universitat Oberta de Catalunya**
 
