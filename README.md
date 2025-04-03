@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arturogonzalez1989&label=Profile%20views&color=0e75b6&style=flat" alt="arturogonzalez1989" /> </p>
 
-<h2 align="left">About Me"</h2>
+<h2 align="left">About Me</h2>
 <p>
   Graduated in Computer Engineering with a Master's and Postgraduate degree in the fields of Business Intelligence, Big Data, and Data Science. I also hold professional certifications specializing in these programs issued by the UOC.
 
